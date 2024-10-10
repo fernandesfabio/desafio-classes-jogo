@@ -1,0 +1,14 @@
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/bin/Debug/net8.0/desafio-classes-jogo
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/bin/Debug/net8.0/desafio-classes-jogo.deps.json
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/bin/Debug/net8.0/desafio-classes-jogo.runtimeconfig.json
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/bin/Debug/net8.0/desafio-classes-jogo.dll
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/bin/Debug/net8.0/desafio-classes-jogo.pdb
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.AssemblyInfoInputs.cache
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.AssemblyInfo.cs
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.csproj.CoreCompileInputs.cache
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.dll
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/refint/desafio-classes-jogo.dll
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.pdb
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/desafio-classes-jogo.genruntimeconfig.cache
+/Users/fernandesfabio/Documents/Dio/desafios/desafio-classes-jogo/codigoCsharp/obj/Debug/net8.0/ref/desafio-classes-jogo.dll
